@@ -35,7 +35,6 @@ local function newest(folder, suffix)
     return best
 end
 
--- Message languages present in Mals/, sorted by code.
 function M.languages()
     if not cache.languages then
         local list = {}
@@ -99,7 +98,6 @@ function M.cleanMessage(raw)
     return table.concat(out)
 end
 
--- label -> readable text, in file order.
 function M.messages(language, file)
     local key = language .. "/" .. file
     if not cache.messages[key] then
@@ -132,7 +130,6 @@ function M.actorPack(actor)
     return cache.packs[actor]
 end
 
--- First file in a pack whose path matches a pattern, parsed as BYML with $parent values merged in.
 function M.packDocument(pack, pattern)
     for path, data in pairs(pack) do
         if path:find(pattern) and data:sub(1, 2) == "YB" then

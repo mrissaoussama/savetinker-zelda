@@ -12,6 +12,7 @@
       "name": "Ocarina of Time Editor",
       "description": "Player, items, songs, dungeons, story, chests, Gold Skulltulas, spawn point and every named flag. Also browses dialogue and enemy data straight from the game files.",
       "version": "0.1.0",
+      "api_version": 1,
       "authors": [
         "oussama"
       ],
@@ -24,8 +25,8 @@
         }
       ],
       "download": "editors/community.oot-switch2-0.1.0.zip",
-      "sha256": "027f12de685d5a1510942a8b92e23761aba9dd7830b6629b6c7ae9f2ff61f41d",
-      "size": 365972
+      "sha256": "28cd2e361cd384c1424f63b56b9332c8bef346a9d8df91a1edf4f1fbbb9447cb",
+      "size": 365554
     }
   ]
 }

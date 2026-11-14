@@ -23,8 +23,6 @@ end
 
 local function hearts(value) return string.format("%g hearts", value / 16) end
 
--- Overview -----------------------------------------------------------------------------------------------------
-
 local function overview(page, progress, caption)
     if caption then
         page:section("Slot card (caption.sav)", function(card)
@@ -81,8 +79,6 @@ local function overview(page, progress, caption)
         if strength then progress:widget(section, strength, { label = "Strength" }) end
     end)
 end
-
--- Grouped flag pages ---------------------------------------------------------------------------------------------
 
 local function flagList(page, progress, pattern, prefix)
     local found = progress:find(pattern)
@@ -255,8 +251,6 @@ local function spawnPoint(page, progress)
     end)
 end
 
--- Every flag, searchable ----------------------------------------------------------------------------------------
-
 local function allFlags(page, file, stateKey)
     local query = page:state(stateKey .. "-query", "")
     local onlySet = page:state(stateKey .. "-set", false)
@@ -287,8 +281,6 @@ local function allFlags(page, file, stateKey)
     if offset:get() > 0 then page:button{ label = "Previous page", run = function() offset:set(offset:get() - 1) end } end
     if last < #matches then page:button{ label = "Next page", run = function() offset:set(offset:get() + 1) end } end
 end
-
--- Game files (read only) -----------------------------------------------------------------------------------------
 
 local function showValue(page, key, value, depth)
     if type(value) ~= "table" then
@@ -382,8 +374,6 @@ local function gameFiles(ui)
         page:page("Actors and enemies", actors)
     end)
 end
-
--- Layout ---------------------------------------------------------------------------------------------------------
 
 function build(ui, save)
     local list = slots(save)

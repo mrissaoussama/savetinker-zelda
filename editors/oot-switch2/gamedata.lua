@@ -25,7 +25,6 @@ local Save = {}
 Save.__index = Save
 local cache = {}
 
--- Parses the hash table once per file; values are always read live from the document.
 function M.open(save, path)
     if not save:has(path) then return nil end
     local file = save:file(path)
@@ -61,7 +60,6 @@ function Save:pointer(entry)
     return self.file:u32(entry.offset + 4)
 end
 
--- Entries whose recovered name matches a Lua pattern, sorted by name.
 function Save:find(pattern)
     local found = {}
     for _, hash in ipairs(self.order) do
@@ -173,7 +171,6 @@ local function label(name, hash, prefix)
     return text, actor
 end
 
--- Adds the right widget for a flag. `options.label` overrides the name, `options.prefix` is stripped from it.
 function Save:widget(page, entry, options)
     options = options or {}
     local name = db.name(entry.hash)

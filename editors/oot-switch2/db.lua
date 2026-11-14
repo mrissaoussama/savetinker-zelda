@@ -32,7 +32,6 @@ function M.hash(name)
     return known or st.hash.murmur3(name)
 end
 
--- Recovered name, or "?xxxxxxxx" for hashes whose text is still unknown.
 function M.name(hash)
     local data = load()
     return data.names[hash] or data.partial[hash] or string.format("?%08x", hash)
@@ -46,7 +45,6 @@ function M.actor(hash)
     return load().actors[hash]
 end
 
--- Dropdown options for an Enum flag, sorted by label.
 function M.enumOptions(hash)
     local labels = load().enums[hash]
     if not labels then return nil end
@@ -56,7 +54,6 @@ function M.enumOptions(hash)
     return options
 end
 
--- Per-placed-actor keys (Bool64bitKey list), as {key = integer, label = text}.
 function M.actorKeys(filter)
     local out = {}
     for key, label in pairs(load().bkeys) do
