@@ -1,0 +1,19 @@
+{
+  "id": "community.oot-switch2",
+  "name": "Ocarina of Time Editor",
+  "description": "Player, items, songs, dungeons, story, chests, Gold Skulltulas, spawn point and every named flag. Also browses dialogue and enemy data straight from the game files.",
+  "version": "0.1.0",
+  "api_version": 1,
+  "authors": [
+    "oussama"
+  ],
+  "game_data": true,
+  "games": [
+    {
+      "platform": "switch",
+      "title_id": "0400486024DEC000",
+      "name": "The Legend of Zelda: Ocarina of Time"
+    }
+  ],
+  "source": "https://github.com/mrissaoussama/savetinker-zelda/tree/main/editors/oot-switch2"
+}

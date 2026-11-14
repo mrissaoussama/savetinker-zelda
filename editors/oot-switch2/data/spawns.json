@@ -1,0 +1,5320 @@
+{
+"BarinadeStage": [
+{
+"name": "BarinadeStage",
+"file": "Dynamic",
+"pos": [
+42.413,
+102.01,
+-98.139
+],
+"yaw": -3.1365
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+42.401,
+102.01,
+-98.151
+],
+"yaw": -3.0874
+}
+],
+"BigOctoStage": [
+{
+"name": "BigOctoStage",
+"file": "Dynamic",
+"pos": [
+-26.672,
+84.89,
+-89.85
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-30.059,
+84.945,
+-99.787
+],
+"yaw": 0.7854
+}
+],
+"BongoBongoStage": [
+{
+"name": "BongoBongoStage",
+"file": "Dynamic",
+"pos": [
+-138.264,
+-11.461,
+22.008
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SageOfShadow",
+"file": "Static",
+"pos": [
+-138.264,
+-11.461,
+22.015
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-138.278,
+-11.461,
+22.092
+],
+"yaw": 0.0
+}
+],
+"BossRushIntervalRoom": [
+{
+"name": "BossRush",
+"file": "Dynamic",
+"pos": [
+0.0,
+0.027,
+4.274
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+0.0,
+0.0,
+4.25
+],
+"yaw": -3.1416
+}
+],
+"BottomOfTheWell": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-0.014,
+105.978,
+40.355
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.0,
+106.0,
+42.445
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_SubEvent_GetStormSong",
+"file": "Dynamic",
+"pos": [
+3.605,
+92.366,
+-97.194
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SubEvent_GetStormSong_BeforeBossRoom",
+"file": "Dynamic",
+"pos": [
+0.082,
+102.191,
+-92.962
+],
+"yaw": -3.1416
+},
+{
+"name": "Well_KakarikoSide",
+"file": "Dynamic",
+"pos": [
+-0.0,
+106.0,
+45.511
+],
+"yaw": 3.1416
+}
+],
+"CrumblingGanonCastle": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-6.344,
+230.285,
+0.024
+],
+"yaw": -1.6505
+},
+{
+"name": "BackEntrance",
+"file": "Static",
+"pos": [
+-95.398,
+166.774,
+-0.011
+],
+"yaw": 1.5708
+},
+{
+"name": "CrumblingGanonCastle_StartPos",
+"file": "Static",
+"pos": [
+-6.593,
+230.295,
+-0.038
+],
+"yaw": -1.5384
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+-95.398,
+166.774,
+-0.011
+],
+"yaw": 1.5708
+},
+{
+"name": "RestartPos1",
+"file": "Static",
+"pos": [
+12.188,
+213.731,
+0.014
+],
+"yaw": -1.6337
+},
+{
+"name": "RestartPos2",
+"file": "Static",
+"pos": [
+-26.735,
+192.985,
+-26.227
+],
+"yaw": 2.4412
+},
+{
+"name": "RestartPos3",
+"file": "Dynamic",
+"pos": [
+-0.054,
+191.869,
+-4.121
+],
+"yaw": 0.0
+},
+{
+"name": "RestartPos4",
+"file": "Static",
+"pos": [
+0.133,
+191.869,
+15.743
+],
+"yaw": 0.0
+},
+{
+"name": "RestartPos5",
+"file": "Static",
+"pos": [
+34.815,
+180.596,
+10.72
+],
+"yaw": 0.4064
+},
+{
+"name": "RestartPos6",
+"file": "Static",
+"pos": [
+-0.176,
+173.142,
+24.974
+],
+"yaw": -0.0128
+},
+{
+"name": "RestartPos7",
+"file": "Static",
+"pos": [
+-74.451,
+167.016,
+-0.007
+],
+"yaw": -1.5853
+},
+{
+"name": "RestartPos_Ganondorf_BossBattle",
+"file": "Static",
+"pos": [
+-5.149,
+230.304,
+0.283
+],
+"yaw": -1.5708
+},
+{
+"name": "RestartPos_Ganondorf_BossBattle",
+"file": "Dynamic",
+"pos": [
+-5.994,
+230.3,
+0.004
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_Defeat_Ganon",
+"file": "Dynamic",
+"pos": [
+-15.905,
+230.0,
+0.006
+],
+"yaw": -1.5708
+}
+],
+"DarkLinkStage": [
+{
+"name": "DarkLinkStage",
+"file": "Dynamic",
+"pos": [
+-77.9,
+125.5,
+-75.842
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-77.9,
+125.5,
+-75.842
+],
+"yaw": 0.0
+}
+],
+"DeadHandStage": [
+{
+"name": "DeadHandStage",
+"file": "Dynamic",
+"pos": [
+-0.0,
+92.38,
+-104.358
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-0.0,
+92.38,
+-104.358
+],
+"yaw": -3.1416
+}
+],
+"DeathMountainCrater_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+16.538,
+131.891,
+59.366
+],
+"yaw": -2.618
+},
+{
+"name": "Crater_GoronCitySide",
+"file": "Dynamic",
+"pos": [
+-55.519,
+120.445,
+-19.774
+],
+"yaw": 1.117
+},
+{
+"name": "Crater_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+16.539,
+131.891,
+59.394
+],
+"yaw": -2.5831
+},
+{
+"name": "EntrancePos_FireTemple",
+"file": "Dynamic",
+"pos": [
+0.6,
+113.027,
+-30.75
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos_GoronCity",
+"file": "Dynamic",
+"pos": [
+-55.519,
+120.445,
+-19.774
+],
+"yaw": 1.117
+},
+{
+"name": "EntrancePos_MountainTrail",
+"file": "Dynamic",
+"pos": [
+16.539,
+131.891,
+59.394
+],
+"yaw": -2.5831
+},
+{
+"name": "FireBolero",
+"file": "Dynamic",
+"pos": [
+0.388,
+111.839,
+-8.632
+],
+"yaw": 3.1416
+},
+{
+"name": "FireBolero",
+"file": "Dynamic",
+"pos": [
+0.378,
+111.688,
+-8.678
+],
+"yaw": 3.1416
+},
+{
+"name": "OutsideOfFireTemple",
+"file": "Dynamic",
+"pos": [
+0.6,
+113.027,
+-30.75
+],
+"yaw": 0.0
+}
+],
+"DeathMountainCrater_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+16.538,
+131.891,
+59.366
+],
+"yaw": -2.618
+},
+{
+"name": "Crater_GoronCitySide",
+"file": "Dynamic",
+"pos": [
+-55.519,
+120.445,
+-19.774
+],
+"yaw": 1.117
+},
+{
+"name": "Crater_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+16.539,
+131.891,
+59.394
+],
+"yaw": -2.5831
+},
+{
+"name": "EntrancePos_FireTemple",
+"file": "Dynamic",
+"pos": [
+0.6,
+113.027,
+-30.75
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos_GoronCity",
+"file": "Dynamic",
+"pos": [
+-55.519,
+120.445,
+-19.774
+],
+"yaw": 1.117
+},
+{
+"name": "EntrancePos_MountainTrail",
+"file": "Dynamic",
+"pos": [
+16.539,
+131.891,
+59.394
+],
+"yaw": -2.5831
+},
+{
+"name": "FireBolero",
+"file": "Dynamic",
+"pos": [
+0.388,
+111.839,
+-8.632
+],
+"yaw": 3.1416
+},
+{
+"name": "FireBolero",
+"file": "Dynamic",
+"pos": [
+0.378,
+111.688,
+-8.678
+],
+"yaw": 3.1416
+},
+{
+"name": "OutsideOfFireTemple",
+"file": "Dynamic",
+"pos": [
+0.6,
+113.027,
+-30.75
+],
+"yaw": 0.0
+}
+],
+"DeathMountainTrail_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-31.332,
+90.422,
+65.364
+],
+"yaw": -2.3281
+},
+{
+"name": "DodongoCavernFront",
+"file": "Dynamic",
+"pos": [
+-42.246,
+110.77,
+-3.878
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.063,
+206.387,
+-154.544
+],
+"yaw": 0.0175
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-44.299,
+109.724,
+-17.633
+],
+"yaw": 0.3665
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-10.625,
+118.09,
+-53.25
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-31.418,
+90.477,
+65.305
+],
+"yaw": -2.217
+},
+{
+"name": "MountainTrail_CraterSide",
+"file": "Dynamic",
+"pos": [
+-0.063,
+206.387,
+-154.544
+],
+"yaw": 0.0175
+},
+{
+"name": "MountainTrail_DodongoCavernSide",
+"file": "Dynamic",
+"pos": [
+-44.299,
+109.724,
+-17.633
+],
+"yaw": 0.3665
+},
+{
+"name": "MountainTrail_GoronCitySide",
+"file": "Dynamic",
+"pos": [
+-10.625,
+118.09,
+-53.25
+],
+"yaw": 0.0
+},
+{
+"name": "MountainTrail_KakarikoSide",
+"file": "Dynamic",
+"pos": [
+-31.418,
+90.477,
+65.305
+],
+"yaw": -2.087
+}
+],
+"DeathMountainTrail_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-31.332,
+90.422,
+65.364
+],
+"yaw": -2.3281
+},
+{
+"name": "DodongoCavernFront",
+"file": "Dynamic",
+"pos": [
+-42.246,
+110.77,
+-3.878
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.063,
+206.387,
+-154.544
+],
+"yaw": 0.0175
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-44.299,
+109.724,
+-17.633
+],
+"yaw": 0.3665
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-10.625,
+118.09,
+-53.25
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-31.418,
+90.477,
+65.305
+],
+"yaw": -2.217
+},
+{
+"name": "MountainTrail_CraterSide",
+"file": "Dynamic",
+"pos": [
+-0.063,
+206.387,
+-154.544
+],
+"yaw": 0.0175
+},
+{
+"name": "MountainTrail_DodongoCavernSide",
+"file": "Dynamic",
+"pos": [
+-44.299,
+109.724,
+-17.633
+],
+"yaw": 0.3665
+},
+{
+"name": "MountainTrail_GoronCitySide",
+"file": "Dynamic",
+"pos": [
+-10.625,
+118.09,
+-53.25
+],
+"yaw": 0.0
+},
+{
+"name": "MountainTrail_KakarikoSide",
+"file": "Dynamic",
+"pos": [
+-31.418,
+90.477,
+65.305
+],
+"yaw": -2.087
+}
+],
+"Demo_ShootingLocation_Tapestry_ED": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.081,
+0.159,
+0.146
+],
+"yaw": 0.0
+},
+{
+"name": "Ending",
+"file": "Dynamic",
+"pos": [
+0.081,
+0.159,
+0.146
+],
+"yaw": 0.0
+}
+],
+"DesertColossus_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-2.969,
+100.1,
+-0.003
+],
+"yaw": -1.5097
+},
+{
+"name": "DesertColossus_FromHountedWasteland",
+"file": "Dynamic",
+"pos": [
+-2.969,
+100.1,
+-0.003
+],
+"yaw": -1.5097
+},
+{
+"name": "DesertColossus_FromSpiritTempleEntrance",
+"file": "Dynamic",
+"pos": [
+-159.282,
+96.181,
+10.282
+],
+"yaw": 1.5458
+},
+{
+"name": "DesertColossus_FromSpiritTempleLeftHand",
+"file": "Dynamic",
+"pos": [
+-164.533,
+112.668,
+-11.826
+],
+"yaw": 0.0
+},
+{
+"name": "DesertColossus_FromSpiritTempleRightHand",
+"file": "Dynamic",
+"pos": [
+-164.52,
+112.669,
+32.5
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-167.77,
+96.134,
+10.289
+],
+"yaw": 1.5542
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-164.52,
+112.669,
+32.5
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-164.533,
+112.668,
+-11.826
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+19.259,
+100.0,
+-0.114
+],
+"yaw": 1.5097
+},
+{
+"name": "SpiritRequiem",
+"file": "Dynamic",
+"pos": [
+-125.955,
+94.36,
+10.471
+],
+"yaw": -1.5708
+}
+],
+"DesertColossus_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-2.969,
+100.1,
+-0.003
+],
+"yaw": -1.5097
+},
+{
+"name": "DesertColossus_FromHountedWasteland",
+"file": "Dynamic",
+"pos": [
+-2.969,
+100.1,
+-0.003
+],
+"yaw": -1.5097
+},
+{
+"name": "DesertColossus_FromSpiritTempleEntrance",
+"file": "Dynamic",
+"pos": [
+-159.282,
+96.181,
+10.282
+],
+"yaw": 1.5458
+},
+{
+"name": "DesertColossus_FromSpiritTempleLeftHand",
+"file": "Dynamic",
+"pos": [
+-164.533,
+112.668,
+-11.826
+],
+"yaw": 0.0
+},
+{
+"name": "DesertColossus_FromSpiritTempleRightHand",
+"file": "Dynamic",
+"pos": [
+-164.52,
+112.669,
+32.5
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-167.77,
+96.134,
+10.289
+],
+"yaw": 1.5542
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-164.52,
+112.669,
+32.5
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-164.533,
+112.668,
+-11.826
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+19.259,
+100.0,
+-0.114
+],
+"yaw": 1.5097
+},
+{
+"name": "SpiritRequiem",
+"file": "Dynamic",
+"pos": [
+-125.955,
+94.36,
+10.471
+],
+"yaw": -1.5708
+}
+],
+"DinolfosStage": [
+{
+"name": "DinolfosStage",
+"file": "Dynamic",
+"pos": [
+-54.603,
+70.786,
+1.464
+],
+"yaw": -1.2741
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-54.596,
+70.786,
+1.463
+],
+"yaw": -1.2741
+}
+],
+"DodongoCavern": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.0,
+102.422,
+41.0
+],
+"yaw": -3.1416
+},
+{
+"name": "DodongoCavern_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+0.0,
+102.438,
+41.0
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.0,
+102.438,
+41.0
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_Get_StoneOfFire",
+"file": "Static",
+"pos": [
+24.0,
+73.41,
+-77.6
+],
+"yaw": 1.5708
+}
+],
+"DodongoStage": [
+{
+"name": "DodongoStage",
+"file": "Dynamic",
+"pos": [
+23.995,
+73.415,
+-77.496
+],
+"yaw": 1.5708
+},
+{
+"name": "StartPos_Get_StoneOfFire",
+"file": "Static",
+"pos": [
+24.0,
+73.41,
+-77.6
+],
+"yaw": 1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+23.993,
+73.406,
+-77.496
+],
+"yaw": 1.5708
+}
+],
+"FinalBattleField": [
+{
+"name": "FinalBattleField_Entrance",
+"file": "Dynamic",
+"pos": [
+28.187,
+99.985,
+-0.816
+],
+"yaw": -1.5708
+},
+{
+"name": "RestartPos_Ganondorf_BossBattle",
+"file": "Static",
+"pos": [
+28.192,
+100.0,
+-0.814
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_Defeat_Ganon",
+"file": "Dynamic",
+"pos": [
+28.184,
+99.987,
+-0.809
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_Defeat_Ganon_InBattle",
+"file": "Dynamic",
+"pos": [
+11.66,
+100.04,
+-0.11
+],
+"yaw": -1.5708
+}
+],
+"FireTemple": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.0,
+23.697
+],
+"yaw": -3.1416
+},
+{
+"name": "BossDefeat",
+"file": "Static",
+"pos": [
+-71.25,
+102.502,
+0.0
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.046,
+100.0,
+24.465
+],
+"yaw": -3.1416
+},
+{
+"name": "FireTemple",
+"file": "Dynamic",
+"pos": [
+0.046,
+100.0,
+24.678
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SageOfFire",
+"file": "Static",
+"pos": [
+-64.5,
+102.502,
+0.0
+],
+"yaw": -1.5708
+}
+],
+"FlareDancerStage": [
+{
+"name": "FlareDancerStage",
+"file": "Dynamic",
+"pos": [
+-66.621,
+148.0,
+-3.872
+],
+"yaw": -0.7854
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-66.621,
+148.0,
+-3.872
+],
+"yaw": -0.7854
+}
+],
+"ForestTemple": [
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.035,
+101.541,
+78.418
+],
+"yaw": -3.1416
+},
+{
+"name": "ForestTemple",
+"file": "Dynamic",
+"pos": [
+0.035,
+101.541,
+78.418
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SageOfForest",
+"file": "Static",
+"pos": [
+-5.993,
+74.693,
+-66.016
+],
+"yaw": 1.0472
+},
+{
+"name": "StartPos_SageOfForest_Step06",
+"file": "Dynamic",
+"pos": [
+-0.114,
+103.535,
+17.932
+],
+"yaw": -3.1416
+}
+],
+"GanonCastle": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+61.171,
+82.503,
+367.688
+],
+"yaw": 3.111
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+38.353,
+98.635,
+208.12
+],
+"yaw": -2.9475
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+61.233,
+82.504,
+367.32
+],
+"yaw": 2.9199
+},
+{
+"name": "GanonCastleEntrance",
+"file": "Dynamic",
+"pos": [
+61.232,
+82.504,
+367.323
+],
+"yaw": 2.9199
+},
+{
+"name": "GanonCastleEntrance_FromInside",
+"file": "Dynamic",
+"pos": [
+42.286,
+98.656,
+228.625
+],
+"yaw": 0.1989
+}
+],
+"GanonStage": [
+{
+"name": "GanonStage",
+"file": "Dynamic",
+"pos": [
+11.794,
+100.054,
+-1.075
+],
+"yaw": -1.5708
+},
+{
+"name": "RestartPos_Ganondorf_BossBattle",
+"file": "Static",
+"pos": [
+28.192,
+100.0,
+-0.814
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+11.655,
+100.044,
+-0.129
+],
+"yaw": -1.5602
+}
+],
+"GanondorfStage": [
+{
+"name": "GanondorfStage",
+"file": "Dynamic",
+"pos": [
+0.014,
+171.048,
+-11.306
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+0.034,
+171.048,
+-11.315
+],
+"yaw": -3.1416
+}
+],
+"GerudoFortress_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-26.48,
+106.554,
+-23.169
+],
+"yaw": 2.5384
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-26.483,
+106.555,
+-23.173
+],
+"yaw": 2.515
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-31.301,
+104.853,
+-105.054
+],
+"yaw": 0.7242
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+7.84,
+110.337,
+0.053
+],
+"yaw": 2.6128
+},
+{
+"name": "GerudoFortress_FromGerudoTrainingGround",
+"file": "Dynamic",
+"pos": [
+7.84,
+110.337,
+0.053
+],
+"yaw": 2.6128
+},
+{
+"name": "GerudoFortress_FromGerudoValley",
+"file": "Dynamic",
+"pos": [
+-26.483,
+106.555,
+-23.173
+],
+"yaw": 2.515
+},
+{
+"name": "GerudoFortress_FromHountedWasteland",
+"file": "Dynamic",
+"pos": [
+-31.301,
+104.853,
+-105.054
+],
+"yaw": 0.7242
+}
+],
+"GerudoThiefStage": [
+{
+"name": "GerudoThiefStage",
+"file": "Dynamic",
+"pos": [
+24.459,
+102.5,
+-75.109
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+24.459,
+102.5,
+-75.102
+],
+"yaw": 0.0
+}
+],
+"GerudoTrainingGround": [
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.75,
+99.259,
+-1.488
+],
+"yaw": -3.1416
+},
+{
+"name": "GerudoTrainingGround_FromGerudoFortress",
+"file": "Dynamic",
+"pos": [
+-1.75,
+103.041,
+11.882
+],
+"yaw": -3.1416
+},
+{
+"name": "GerudoTrainingGround_FromGerudoFortress_Air",
+"file": "Dynamic",
+"pos": [
+-1.75,
+103.035,
+11.886
+],
+"yaw": 3.1416
+}
+],
+"GerudoValley_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+72.637,
+94.34,
+16.566
+],
+"yaw": -1.0203
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-62.933,
+102.606,
+-6.495
+],
+"yaw": 1.502
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+72.595,
+94.339,
+16.665
+],
+"yaw": -2.1425
+},
+{
+"name": "GerudoValley_Entrance",
+"file": "Dynamic",
+"pos": [
+72.649,
+94.339,
+16.581
+],
+"yaw": -2.1425
+},
+{
+"name": "GerudoValley_FromGerudoFortress",
+"file": "Dynamic",
+"pos": [
+-62.433,
+102.606,
+-6.495
+],
+"yaw": 1.5217
+},
+{
+"name": "GerudoValley_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+8.227,
+10.3,
+64.29
+],
+"yaw": -3.0434
+},
+{
+"name": "GerudoValley_FromLakeHylia_Air",
+"file": "Dynamic",
+"pos": [
+8.36,
+14.5,
+64.297
+],
+"yaw": -3.0434
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-39.946,
+101.2,
+-24.715
+],
+"yaw": 0.6029
+},
+{
+"name": "RunningRace_pos",
+"file": "Dynamic",
+"pos": [
+-37.0,
+101.2,
+-18.017
+],
+"yaw": -1.6139
+}
+],
+"GerudoValley_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+72.637,
+94.34,
+16.566
+],
+"yaw": -1.0203
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+72.595,
+94.339,
+16.665
+],
+"yaw": -2.1425
+},
+{
+"name": "GerudoValley_Entrance",
+"file": "Dynamic",
+"pos": [
+72.649,
+94.339,
+16.581
+],
+"yaw": -2.1425
+},
+{
+"name": "GerudoValley_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+8.227,
+10.3,
+64.29
+],
+"yaw": -3.0434
+},
+{
+"name": "GerudoValley_FromLakeHylia_Air",
+"file": "Dynamic",
+"pos": [
+8.36,
+14.5,
+64.297
+],
+"yaw": -3.0434
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-39.946,
+101.2,
+-24.715
+],
+"yaw": 0.6029
+}
+],
+"GohmaStage": [
+{
+"name": "DefeatBoss",
+"file": "Static",
+"pos": [
+11.457,
+47.0,
+67.626
+],
+"yaw": 1.5708
+},
+{
+"name": "GohmaStage",
+"file": "Dynamic",
+"pos": [
+6.669,
+47.0,
+67.627
+],
+"yaw": 1.5708
+},
+{
+"name": "StartPos_Get_StoneOfForest",
+"file": "Static",
+"pos": [
+6.672,
+47.0,
+67.626
+],
+"yaw": 1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+4.512,
+47.0,
+67.668
+],
+"yaw": 1.6878
+}
+],
+"GoronCity_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+1.7,
+116.003,
+35.183
+],
+"yaw": 3.1122
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+15.197,
+104.945,
+-1.393
+],
+"yaw": -1.3963
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+21.696,
+104.945,
+-2.539
+],
+"yaw": -1.3963
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.15,
+98.5,
+-47.35
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+1.65,
+116.002,
+35.217
+],
+"yaw": -3.1154
+},
+{
+"name": "GoronCity_CraterSide",
+"file": "Dynamic",
+"pos": [
+-0.15,
+98.5,
+-47.35
+],
+"yaw": 0.0
+},
+{
+"name": "GoronCity_LostWoodSide_after",
+"file": "Static",
+"pos": [
+15.196,
+104.945,
+-1.393
+],
+"yaw": -1.3963
+},
+{
+"name": "GoronCity_LostWoodSide_before",
+"file": "Static",
+"pos": [
+21.696,
+104.945,
+-2.539
+],
+"yaw": -1.3963
+},
+{
+"name": "GoronCity_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+1.65,
+116.002,
+35.217
+],
+"yaw": -3.1154
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+2.981,
+103.367,
+24.579
+],
+"yaw": -1.8473
+}
+],
+"GoronCity_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+1.7,
+116.003,
+35.183
+],
+"yaw": 3.1122
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+15.197,
+104.945,
+-1.393
+],
+"yaw": -1.3963
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+21.696,
+104.945,
+-2.539
+],
+"yaw": -1.3963
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.15,
+98.5,
+-47.35
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+1.65,
+116.002,
+35.217
+],
+"yaw": -3.1154
+},
+{
+"name": "GoronCity_CraterSide",
+"file": "Dynamic",
+"pos": [
+-0.15,
+98.5,
+-47.35
+],
+"yaw": 0.0
+},
+{
+"name": "GoronCity_LostWoodSide_after",
+"file": "Static",
+"pos": [
+15.196,
+104.945,
+-1.393
+],
+"yaw": -1.3963
+},
+{
+"name": "GoronCity_LostWoodSide_before",
+"file": "Static",
+"pos": [
+21.696,
+104.945,
+-2.539
+],
+"yaw": -1.3963
+},
+{
+"name": "GoronCity_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+1.65,
+116.002,
+35.217
+],
+"yaw": -3.1154
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+2.981,
+103.367,
+24.579
+],
+"yaw": -1.8473
+}
+],
+"Graveyard_Adult": [
+{
+"name": "4",
+"file": "Static",
+"pos": [
+22.232,
+78.606,
+-10.872
+],
+"yaw": 1.5708
+},
+{
+"name": "5",
+"file": "Static",
+"pos": [
+24.38,
+78.606,
+-10.877
+],
+"yaw": 1.5708
+},
+{
+"name": "6",
+"file": "Static",
+"pos": [
+23.307,
+78.606,
+-10.877
+],
+"yaw": 1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-36.49,
+101.105,
+8.447
+],
+"yaw": 1.3059
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+72.86,
+108.5,
+2.574
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-29.214,
+87.691,
+77.64
+],
+"yaw": 1.5708
+},
+{
+"name": "GraveYard_KakarikoSide",
+"file": "Dynamic",
+"pos": [
+-36.499,
+98.014,
+8.485
+],
+"yaw": 1.5496
+},
+{
+"name": "GraveYard_KakarikoWindmillSide",
+"file": "Dynamic",
+"pos": [
+-28.507,
+87.691,
+77.64
+],
+"yaw": 1.5708
+},
+{
+"name": "GraveYard_ShadowTempleSide",
+"file": "Dynamic",
+"pos": [
+72.785,
+108.5,
+2.562
+],
+"yaw": -1.5708
+},
+{
+"name": "ShadowNocturne",
+"file": "Dynamic",
+"pos": [
+64.649,
+108.968,
+2.485
+],
+"yaw": 1.5708
+}
+],
+"Graveyard_Child": [
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-36.49,
+101.105,
+8.447
+],
+"yaw": 1.3059
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+72.86,
+108.5,
+2.574
+],
+"yaw": -1.5708
+},
+{
+"name": "Front",
+"file": "Static",
+"pos": [
+-17.273,
+100.026,
+8.382
+],
+"yaw": 1.5708
+},
+{
+"name": "GraveYard_KakarikoSide",
+"file": "Dynamic",
+"pos": [
+-36.499,
+98.014,
+8.485
+],
+"yaw": 1.5496
+},
+{
+"name": "GraveYard_ShadowTempleSide",
+"file": "Dynamic",
+"pos": [
+72.785,
+108.5,
+2.562
+],
+"yaw": -1.5708
+},
+{
+"name": "Lear",
+"file": "Static",
+"pos": [
+25.994,
+103.024,
+2.59
+],
+"yaw": -1.5708
+},
+{
+"name": "ShadowNocturne",
+"file": "Dynamic",
+"pos": [
+64.649,
+108.968,
+2.485
+],
+"yaw": 1.5708
+}
+],
+"HountedWasteland_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+114.877,
+95.148,
+52.981
+],
+"yaw": -2.0944
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+127.912,
+96.717,
+61.394
+],
+"yaw": 1.0123
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-105.357,
+99.124,
+-55.8
+],
+"yaw": 1.5708
+},
+{
+"name": "HountedWasteland_FromDesertColossus",
+"file": "Static",
+"pos": [
+-103.155,
+99.225,
+-55.814
+],
+"yaw": 1.5708
+},
+{
+"name": "HountedWasteland_FromGerudoFortress",
+"file": "Dynamic",
+"pos": [
+115.788,
+95.404,
+53.642
+],
+"yaw": -2.0769
+}
+],
+"HountedWasteland_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+77.159,
+93.83,
+31.288
+],
+"yaw": -0.9214
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-105.357,
+99.124,
+-55.8
+],
+"yaw": 1.5708
+},
+{
+"name": "HountedWasteland_FromDesertColossus",
+"file": "Static",
+"pos": [
+-103.155,
+99.225,
+-55.814
+],
+"yaw": 1.5708
+}
+],
+"HyruleCastle": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+13.33,
+105.261,
+-13.198
+],
+"yaw": 3.0474
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+13.34,
+105.257,
+-13.168
+],
+"yaw": 2.9675
+},
+{
+"name": "HyruleCastle_Entrance",
+"file": "Dynamic",
+"pos": [
+13.349,
+105.239,
+-13.18
+],
+"yaw": 0.1779
+}
+],
+"HyruleField_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+196.93,
+163.383,
+310.475
+],
+"yaw": -1.1345
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.045,
+150.661,
+32.095
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+213.354,
+158.955,
+137.24
+],
+"yaw": -2.4494
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+200.388,
+159.436,
+19.341
+],
+"yaw": -0.9365
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-306.875,
+137.411,
+166.409
+],
+"yaw": 1.0852
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+198.14,
+163.382,
+309.649
+],
+"yaw": -1.2217
+},
+{
+"name": "HyruleField_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+0.106,
+149.651,
+98.594
+],
+"yaw": 3.0855
+},
+{
+"name": "HyruleField_FrontOfGerudoValley",
+"file": "Dynamic",
+"pos": [
+-306.875,
+137.411,
+166.409
+],
+"yaw": 1.0852
+},
+{
+"name": "HyruleField_FrontOfKakarikoVillage",
+"file": "Dynamic",
+"pos": [
+200.44,
+159.442,
+19.291
+],
+"yaw": -0.8759
+},
+{
+"name": "HyruleField_FrontOfLostWoodBridge",
+"file": "Dynamic",
+"pos": [
+198.179,
+163.383,
+309.635
+],
+"yaw": -1.2217
+},
+{
+"name": "HyruleField_FrontOfMarket",
+"file": "Dynamic",
+"pos": [
+-0.045,
+150.661,
+32.164
+],
+"yaw": 0.0
+},
+{
+"name": "HyruleField_FrontOfZoraRiver",
+"file": "Dynamic",
+"pos": [
+213.354,
+158.955,
+137.24
+],
+"yaw": -2.4494
+},
+{
+"name": "HyruleField_FrontOfZoraRiver_UnderWater",
+"file": "Static",
+"pos": [
+202.744,
+155.49,
+148.355
+],
+"yaw": -2.2358
+},
+{
+"name": "HyruleField_FrontOfZoraRiver_UnderWater_Air",
+"file": "Dynamic",
+"pos": [
+202.744,
+156.303,
+148.355
+],
+"yaw": -2.3059
+},
+{
+"name": "LakeHylia_FromGerudoValley",
+"file": "Dynamic",
+"pos": [
+-253.503,
+134.011,
+402.237
+],
+"yaw": 0.6273
+},
+{
+"name": "LakeHylia_FromGerudoValley_Air",
+"file": "Dynamic",
+"pos": [
+-253.506,
+134.473,
+402.239
+],
+"yaw": 0.6273
+},
+{
+"name": "MiniGame_Fishing_PlayerStart",
+"file": "Dynamic",
+"pos": [
+-97.605,
+134.064,
+489.674
+],
+"yaw": 0.8433
+},
+{
+"name": "OutsideOfWaterTemple",
+"file": "Dynamic",
+"pos": [
+-183.1,
+103.5,
+496.214
+],
+"yaw": 2.4141
+},
+{
+"name": "OutsideOfWaterTemple_Air",
+"file": "Dynamic",
+"pos": [
+-183.1,
+104.5,
+496.214
+],
+"yaw": 2.4141
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-53.234,
+150.644,
+208.589
+],
+"yaw": -1.7659
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-171.431,
+137.729,
+409.285
+],
+"yaw": 0.7948
+},
+{
+"name": "StartPos_Get_Epona_Race",
+"file": "Dynamic",
+"pos": [
+-83.952,
+150.637,
+227.373
+],
+"yaw": 1.3108
+},
+{
+"name": "WaterSerenade",
+"file": "Dynamic",
+"pos": [
+-202.29,
+131.721,
+509.78
+],
+"yaw": 2.4141
+},
+{
+"name": "WaterTempleEntrancePos",
+"file": "Dynamic",
+"pos": [
+-193.805,
+103.939,
+508.633
+],
+"yaw": -0.7275
+},
+{
+"name": "ZoraDomainEntrancePos",
+"file": "Dynamic",
+"pos": [
+-140.449,
+124.376,
+448.616
+],
+"yaw": -0.7542
+},
+{
+"name": "ZoraLakeHylia_FromZoraDomain",
+"file": "Dynamic",
+"pos": [
+-141.739,
+124.244,
+449.985
+],
+"yaw": -0.7615
+},
+{
+"name": "ZoraLakeHylia_FromZoraDomain_Air",
+"file": "Dynamic",
+"pos": [
+-141.739,
+124.515,
+449.985
+],
+"yaw": -0.7615
+}
+],
+"HyruleField_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+197.557,
+163.393,
+310.078
+],
+"yaw": -1.117
+},
+{
+"name": "DoorOfTime_MeetImpa_EndPos",
+"file": "Dynamic",
+"pos": [
+2.622,
+150.315,
+60.239
+],
+"yaw": 2.1545
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+202.744,
+156.309,
+148.355
+],
+"yaw": -2.3059
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.045,
+150.661,
+32.095
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+213.354,
+158.955,
+137.24
+],
+"yaw": -2.4494
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+200.388,
+159.436,
+19.341
+],
+"yaw": -0.9365
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-306.875,
+137.411,
+166.409
+],
+"yaw": 1.0852
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+198.14,
+163.382,
+309.649
+],
+"yaw": -1.2217
+},
+{
+"name": "FindCuccoStartPos",
+"file": "Dynamic",
+"pos": [
+-54.907,
+150.695,
+199.008
+],
+"yaw": 1.3989
+},
+{
+"name": "HyruleField_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+0.106,
+149.651,
+98.594
+],
+"yaw": 3.0855
+},
+{
+"name": "HyruleField_FrontOfGerudoValley",
+"file": "Dynamic",
+"pos": [
+-306.875,
+137.411,
+166.409
+],
+"yaw": 1.0852
+},
+{
+"name": "HyruleField_FrontOfKakarikoVillage",
+"file": "Dynamic",
+"pos": [
+200.44,
+159.442,
+19.291
+],
+"yaw": -0.8759
+},
+{
+"name": "HyruleField_FrontOfLostWoodBridge",
+"file": "Dynamic",
+"pos": [
+198.179,
+163.383,
+309.635
+],
+"yaw": -1.2217
+},
+{
+"name": "HyruleField_FrontOfMarket",
+"file": "Dynamic",
+"pos": [
+-0.045,
+150.661,
+32.164
+],
+"yaw": 0.0
+},
+{
+"name": "HyruleField_FrontOfZoraRiver",
+"file": "Dynamic",
+"pos": [
+213.354,
+158.955,
+137.24
+],
+"yaw": -2.4494
+},
+{
+"name": "HyruleField_FrontOfZoraRiver_UnderWater",
+"file": "Static",
+"pos": [
+202.744,
+156.309,
+148.355
+],
+"yaw": -2.2358
+},
+{
+"name": "LakeHylia_FromGerudoValley",
+"file": "Dynamic",
+"pos": [
+-253.503,
+134.011,
+402.237
+],
+"yaw": 0.6273
+},
+{
+"name": "LakeHylia_FromGerudoValley_Air",
+"file": "Dynamic",
+"pos": [
+-253.506,
+134.473,
+402.239
+],
+"yaw": 0.6273
+},
+{
+"name": "MiniGame_Fishing_PlayerStart",
+"file": "Dynamic",
+"pos": [
+-97.605,
+134.064,
+489.674
+],
+"yaw": 0.8433
+},
+{
+"name": "OutsideOfWaterTemple",
+"file": "Dynamic",
+"pos": [
+-183.1,
+103.5,
+496.214
+],
+"yaw": 2.4141
+},
+{
+"name": "OutsideOfWaterTemple_Air",
+"file": "Dynamic",
+"pos": [
+-183.1,
+104.5,
+496.214
+],
+"yaw": 2.4141
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-53.234,
+150.644,
+208.589
+],
+"yaw": -1.7659
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-171.431,
+137.729,
+409.285
+],
+"yaw": 0.7948
+},
+{
+"name": "StartPos_DoorOfTime",
+"file": "Dynamic",
+"pos": [
+-0.077,
+150.402,
+54.22
+],
+"yaw": -3.1416
+},
+{
+"name": "WaterSerenade",
+"file": "Dynamic",
+"pos": [
+-202.29,
+131.721,
+509.78
+],
+"yaw": 2.4141
+},
+{
+"name": "WaterTempleEntrancePos",
+"file": "Dynamic",
+"pos": [
+-193.805,
+103.939,
+508.633
+],
+"yaw": -0.7275
+},
+{
+"name": "ZoraDomainEntrancePos",
+"file": "Dynamic",
+"pos": [
+-140.449,
+124.376,
+448.616
+],
+"yaw": -0.7542
+},
+{
+"name": "ZoraLakeHylia_FromZoraDomain",
+"file": "Dynamic",
+"pos": [
+-141.739,
+124.244,
+449.985
+],
+"yaw": -0.7615
+},
+{
+"name": "ZoraLakeHylia_FromZoraDomain_Air",
+"file": "Dynamic",
+"pos": [
+-141.739,
+124.515,
+449.985
+],
+"yaw": -0.7615
+}
+],
+"IceCavern": [
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+16.717,
+102.434,
+99.47
+],
+"yaw": -3.0543
+},
+{
+"name": "EntrancePos2",
+"file": "Dynamic",
+"pos": [
+-46.873,
+97.558,
+68.702
+],
+"yaw": -3.1416
+},
+{
+"name": "IceCavern_FromZoraFountain",
+"file": "Dynamic",
+"pos": [
+16.717,
+102.434,
+99.47
+],
+"yaw": -3.0543
+},
+{
+"name": "IceCavern_FromZoraFountain_Backdoor",
+"file": "Dynamic",
+"pos": [
+-46.873,
+97.558,
+68.702
+],
+"yaw": -0.0
+},
+{
+"name": "IceCavern_FromZoraFountain_Backdoor_Air",
+"file": "Dynamic",
+"pos": [
+-47.127,
+104.722,
+68.702
+],
+"yaw": -3.1416
+}
+],
+"InsideGanonCastle": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.209,
+103.75,
+5.439
+],
+"yaw": 3.1305
+},
+{
+"name": "Entrance",
+"file": "Dynamic",
+"pos": [
+0.038,
+110.25,
+91.588
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.038,
+110.25,
+89.955
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_Defeat_Ganon",
+"file": "Dynamic",
+"pos": [
+0.02,
+171.053,
+-11.313
+],
+"yaw": 3.1416
+}
+],
+"InsideJabuJabuBelly": [
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.157,
+91.668,
+-0.781
+],
+"yaw": 3.1416
+},
+{
+"name": "InsideJabuJabuBelly_FromZoraFountain",
+"file": "Dynamic",
+"pos": [
+-0.157,
+91.668,
+-0.781
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_Get_StoneOfWater_MiddleBoss",
+"file": "Dynamic",
+"pos": [
+-26.406,
+84.847,
+-89.125
+],
+"yaw": -2.1507
+},
+{
+"name": "StartPos_StoneOfWater",
+"file": "Dynamic",
+"pos": [
+42.392,
+102.01,
+-98.129
+],
+"yaw": 3.1416
+}
+],
+"InsideTheDekuTree": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.216,
+101.0,
+14.711
+],
+"yaw": -3.1416
+},
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.214,
+101.0,
+14.712
+],
+"yaw": -3.1416
+},
+{
+"name": "DefeatBoss",
+"file": "Static",
+"pos": [
+11.454,
+47.0,
+67.634
+],
+"yaw": 1.5708
+},
+{
+"name": "Entrance",
+"file": "Dynamic",
+"pos": [
+0.219,
+101.0,
+14.711
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.219,
+101.0,
+14.711
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_Get_StoneOfForest",
+"file": "Static",
+"pos": [
+6.669,
+47.0,
+67.634
+],
+"yaw": 1.5708
+}
+],
+"IronKnuckleBlackStage": [
+{
+"name": "IronKnuckleBlackStage",
+"file": "Dynamic",
+"pos": [
+12.366,
+149.65,
+-24.654
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+12.366,
+149.65,
+-24.654
+],
+"yaw": -1.5708
+}
+],
+"IronKnuckleWhiteStage": [
+{
+"name": "IronKnuckleWhiteStage",
+"file": "Dynamic",
+"pos": [
+-55.695,
+132.1,
+11.454
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-55.695,
+132.1,
+11.454
+],
+"yaw": 0.0
+}
+],
+"KakarikoVillage_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-94.541,
+97.35,
+49.642
+],
+"yaw": 1.8056
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-119.773,
+96.631,
+58.696
+],
+"yaw": 1.5027
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-41.199,
+109.986,
+-16.002
+],
+"yaw": -0.2374
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.73,
+101.544,
+68.802
+],
+"yaw": -1.4996
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-5.782,
+85.194,
+44.205
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+12.765,
+107.989,
+44.297
+],
+"yaw": -1.5708
+},
+{
+"name": "HitTargetStartPos",
+"file": "Dynamic",
+"pos": [
+-58.463,
+91.387,
+62.641
+],
+"yaw": 1.5611
+},
+{
+"name": "Kakariko_GraveYardSide",
+"file": "Dynamic",
+"pos": [
+-1.73,
+101.544,
+68.802
+],
+"yaw": -1.4996
+},
+{
+"name": "Kakariko_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+-41.199,
+109.986,
+-16.002
+],
+"yaw": -0.2374
+},
+{
+"name": "Kakariko_WellSide",
+"file": "Dynamic",
+"pos": [
+-5.782,
+85.194,
+44.205
+],
+"yaw": -1.5708
+},
+{
+"name": "KakarikoVillage_Entrance",
+"file": "Dynamic",
+"pos": [
+-119.773,
+96.631,
+58.696
+],
+"yaw": 1.5633
+},
+{
+"name": "KakarikoWindmill_GraveYardSide",
+"file": "Dynamic",
+"pos": [
+12.765,
+107.989,
+44.297
+],
+"yaw": -1.5708
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-45.217,
+108.318,
+103.501
+],
+"yaw": 2.1118
+}
+],
+"KakarikoVillage_Adult_Alternative": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-94.541,
+97.35,
+49.642
+],
+"yaw": 1.8056
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-119.773,
+96.631,
+58.696
+],
+"yaw": 1.5027
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-41.199,
+109.986,
+-16.002
+],
+"yaw": -0.2374
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.73,
+101.544,
+68.802
+],
+"yaw": -1.4996
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-5.782,
+85.194,
+44.205
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+12.765,
+107.989,
+44.297
+],
+"yaw": -1.5708
+},
+{
+"name": "HitTargetStartPos",
+"file": "Dynamic",
+"pos": [
+-58.463,
+91.387,
+62.641
+],
+"yaw": 1.5611
+},
+{
+"name": "Kakariko_GraveYardSide",
+"file": "Dynamic",
+"pos": [
+-1.73,
+101.544,
+68.802
+],
+"yaw": -1.4996
+},
+{
+"name": "Kakariko_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+-41.199,
+109.986,
+-16.002
+],
+"yaw": -0.2374
+},
+{
+"name": "Kakariko_WellSide",
+"file": "Dynamic",
+"pos": [
+-5.782,
+85.194,
+44.205
+],
+"yaw": -1.5708
+},
+{
+"name": "KakarikoVillage_Entrance",
+"file": "Dynamic",
+"pos": [
+-119.773,
+96.631,
+58.696
+],
+"yaw": 1.5633
+},
+{
+"name": "KakarikoWindmill_GraveYardSide",
+"file": "Dynamic",
+"pos": [
+12.765,
+107.989,
+44.297
+],
+"yaw": -1.5708
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-45.217,
+108.318,
+103.501
+],
+"yaw": 2.1118
+}
+],
+"KakarikoVillage_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-94.541,
+97.35,
+49.642
+],
+"yaw": 1.8056
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-119.773,
+96.631,
+58.696
+],
+"yaw": 1.5027
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-41.199,
+109.986,
+-16.002
+],
+"yaw": -0.2374
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.73,
+101.544,
+68.802
+],
+"yaw": -1.4996
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-5.782,
+85.194,
+44.205
+],
+"yaw": -1.5708
+},
+{
+"name": "FromMountainTrail",
+"file": "Dynamic",
+"pos": [
+-48.0,
+115.365,
+95.25
+],
+"yaw": -2.7402
+},
+{
+"name": "Kakariko_GraveYardSide",
+"file": "Dynamic",
+"pos": [
+-1.73,
+101.544,
+68.802
+],
+"yaw": -1.4996
+},
+{
+"name": "Kakariko_MountainTrailSide",
+"file": "Dynamic",
+"pos": [
+-41.199,
+109.986,
+-16.002
+],
+"yaw": -0.2374
+},
+{
+"name": "Kakariko_WellSide",
+"file": "Dynamic",
+"pos": [
+-5.782,
+85.194,
+44.205
+],
+"yaw": -1.5708
+},
+{
+"name": "KakarikoVillage_Entrance",
+"file": "Dynamic",
+"pos": [
+-119.773,
+96.631,
+58.696
+],
+"yaw": 1.5633
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-45.217,
+108.318,
+103.501
+],
+"yaw": 2.1118
+}
+],
+"KokiriForest_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-46.138,
+118.5,
+15.59
+],
+"yaw": 1.3963
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+90.035,
+115.482,
+-27.902
+],
+"yaw": -1.4286
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-32.272,
+121.071,
+-65.773
+],
+"yaw": 0.4363
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-126.476,
+114.697,
+-38.359
+],
+"yaw": 1.5708
+},
+{
+"name": "FrontDekuTree",
+"file": "Dynamic",
+"pos": [
+90.035,
+115.482,
+-27.901
+],
+"yaw": -1.4286
+},
+{
+"name": "KokiriForest_FrontOfLostWood",
+"file": "Dynamic",
+"pos": [
+-32.272,
+121.071,
+-65.773
+],
+"yaw": 0.4363
+},
+{
+"name": "LinkBed",
+"file": "Dynamic",
+"pos": [
+-46.52,
+118.609,
+15.327
+],
+"yaw": 1.7038
+},
+{
+"name": "LostWoodBridge_FrontOfHyruleField",
+"file": "Dynamic",
+"pos": [
+-126.476,
+114.697,
+-38.359
+],
+"yaw": 1.5708
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-46.549,
+118.456,
+15.353
+],
+"yaw": 1.649
+},
+{
+"name": "WarpFromForestTemple",
+"file": "Dynamic",
+"pos": [
+78.33,
+114.77,
+-25.65
+],
+"yaw": 1.8326
+}
+],
+"KokiriForest_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-46.087,
+118.455,
+15.394
+],
+"yaw": 1.8949
+},
+{
+"name": "After_DekuWither",
+"file": "Dynamic",
+"pos": [
+39.641,
+113.334,
+-0.013
+],
+"yaw": -1.1345
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+90.035,
+115.482,
+-27.902
+],
+"yaw": -1.4286
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-32.272,
+121.071,
+-65.773
+],
+"yaw": 0.4363
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-126.476,
+114.697,
+-38.359
+],
+"yaw": 1.5708
+},
+{
+"name": "FrontDekuTree",
+"file": "Dynamic",
+"pos": [
+90.035,
+115.482,
+-27.901
+],
+"yaw": -1.4286
+},
+{
+"name": "KokiriForest_FrontOfLostWood",
+"file": "Dynamic",
+"pos": [
+-32.272,
+121.071,
+-65.773
+],
+"yaw": 0.4363
+},
+{
+"name": "LostWoodBridge_FrontOfHyruleField",
+"file": "Dynamic",
+"pos": [
+-126.476,
+114.697,
+-38.359
+],
+"yaw": 1.5708
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-46.549,
+118.456,
+15.353
+],
+"yaw": 1.649
+},
+{
+"name": "WarpFromDekuTree",
+"file": "Dynamic",
+"pos": [
+72.209,
+113.908,
+-25.499
+],
+"yaw": 1.693
+},
+{
+"name": "WarpFromDekuTree_2",
+"file": "Dynamic",
+"pos": [
+65.782,
+112.699,
+-24.772
+],
+"yaw": 1.7279
+}
+],
+"LizalfosStage": [
+{
+"name": "LizalfosStage",
+"file": "Dynamic",
+"pos": [
+92.513,
+99.02,
+-37.979
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+92.513,
+100.5,
+-37.988
+],
+"yaw": 3.1416
+}
+],
+"LostWood_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.038,
+4.975
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+24.0,
+100.006,
+-23.661
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.03,
+-5.0
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.03,
+2.5
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.03,
+-2.5
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+26.5,
+100.03,
+-24.0
+],
+"yaw": 1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+47.9,
+100.03,
+-26.5
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+45.5,
+100.03,
+-48.1
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+45.5,
+100.03,
+-72.0
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+47.9,
+100.03,
+-69.5
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+26.5,
+100.03,
+-72.0
+],
+"yaw": 1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.03,
+-71.7
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.03,
+-74.5
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+56.5,
+92.203,
+-25.6
+],
+"yaw": -1.5708
+},
+{
+"name": "LostWood_Entrance",
+"file": "Dynamic",
+"pos": [
+-0.0,
+100.038,
+4.968
+],
+"yaw": 3.1416
+},
+{
+"name": "LostWood_FrontOfSacredForestMeadow",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.039,
+-77.133
+],
+"yaw": 0.0
+},
+{
+"name": "LostWood_GoronCitySide_after",
+"file": "Static",
+"pos": [
+24.0,
+100.077,
+-29.151
+],
+"yaw": 0.0
+},
+{
+"name": "LostWood_GoronCitySide_before",
+"file": "Static",
+"pos": [
+24.0,
+100.077,
+-29.151
+],
+"yaw": 0.0
+},
+{
+"name": "LostWood_ZoraRiverSide",
+"file": "Dynamic",
+"pos": [
+64.5,
+93.0,
+-25.6
+],
+"yaw": -1.5708
+},
+{
+"name": "LostWood_ZoraRiverSide_Air",
+"file": "Dynamic",
+"pos": [
+64.5,
+94.0,
+-25.6
+],
+"yaw": -1.5708
+}
+],
+"LostWood_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.038,
+4.975
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+24.0,
+100.006,
+-23.661
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.03,
+-5.0
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.03,
+2.5
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.03,
+-2.5
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+26.5,
+100.03,
+-24.0
+],
+"yaw": 1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+47.9,
+100.03,
+-26.5
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+45.5,
+100.03,
+-48.1
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+45.5,
+100.03,
+-72.0
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+47.9,
+100.03,
+-69.5
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+26.5,
+100.03,
+-72.0
+],
+"yaw": 1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.03,
+-71.7
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.03,
+-74.5
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+56.5,
+92.203,
+-25.6
+],
+"yaw": -1.5708
+},
+{
+"name": "LostWood_Entrance",
+"file": "Dynamic",
+"pos": [
+-0.0,
+100.038,
+4.968
+],
+"yaw": 3.1416
+},
+{
+"name": "LostWood_FrontOfSacredForestMeadow",
+"file": "Dynamic",
+"pos": [
+24.0,
+100.039,
+-77.133
+],
+"yaw": 0.0
+},
+{
+"name": "LostWood_GoronCitySide_after",
+"file": "Static",
+"pos": [
+24.0,
+100.077,
+-29.151
+],
+"yaw": 0.0
+},
+{
+"name": "LostWood_GoronCitySide_before",
+"file": "Static",
+"pos": [
+24.0,
+100.077,
+-29.151
+],
+"yaw": 0.0
+},
+{
+"name": "LostWood_ZoraRiverSide",
+"file": "Dynamic",
+"pos": [
+64.5,
+93.0,
+-25.6
+],
+"yaw": -1.5708
+},
+{
+"name": "LostWood_ZoraRiverSide_Air",
+"file": "Dynamic",
+"pos": [
+64.5,
+94.0,
+-25.6
+],
+"yaw": -1.5708
+}
+],
+"Market_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-1.912,
+102.096,
+65.227
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.712,
+102.24,
+73.328
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.841,
+99.994,
+-16.097
+],
+"yaw": 0.0
+},
+{
+"name": "LightPrelude",
+"file": "Dynamic",
+"pos": [
+84.751,
+104.232,
+-34.0
+],
+"yaw": 1.5708
+},
+{
+"name": "Market_Entrance",
+"file": "Dynamic",
+"pos": [
+-1.712,
+102.24,
+65.773
+],
+"yaw": -3.1416
+},
+{
+"name": "Market_Entrance_FromCastle",
+"file": "Dynamic",
+"pos": [
+-1.841,
+99.994,
+-16.097
+],
+"yaw": 0.0
+}
+],
+"Market_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-1.493,
+102.096,
+76.75
+],
+"yaw": -3.1416
+},
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-1.912,
+102.096,
+65.227
+],
+"yaw": 3.1416
+},
+{
+"name": "BombchuBowlingStartPos",
+"file": "Static",
+"pos": [
+-25.133,
+100.029,
+9.509
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-1.712,
+102.24,
+73.328
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-2.141,
+100.089,
+-16.837
+],
+"yaw": 0.0
+},
+{
+"name": "GameOverRespawn",
+"file": "Static",
+"pos": [
+-13.665,
+100.088,
+6.752
+],
+"yaw": 1.5708
+},
+{
+"name": "HitTargetStartPos",
+"file": "Dynamic",
+"pos": [
+-14.248,
+100.117,
+-12.433
+],
+"yaw": -3.1416
+},
+{
+"name": "LightPrelude",
+"file": "Dynamic",
+"pos": [
+84.751,
+104.232,
+-34.0
+],
+"yaw": 1.5708
+},
+{
+"name": "Market_Entrance",
+"file": "Dynamic",
+"pos": [
+-1.712,
+102.24,
+65.773
+],
+"yaw": -3.1416
+},
+{
+"name": "Market_FrontOfHyruleCastle",
+"file": "Dynamic",
+"pos": [
+-2.041,
+100.089,
+-16.097
+],
+"yaw": 0.0
+},
+{
+"name": "MiniGameChoiceTreasureRestartPos",
+"file": "Static",
+"pos": [
+-64.693,
+97.398,
+8.916
+],
+"yaw": -1.5708
+},
+{
+"name": "ReturnFromDreamWorld",
+"file": "Static",
+"pos": [
+-45.402,
+98.286,
+-18.312
+],
+"yaw": -1.3963
+},
+{
+"name": "StartPos_Market_Item_Bottle_TutorialEvent",
+"file": "Dynamic",
+"pos": [
+17.633,
+100.127,
+5.82
+],
+"yaw": 1.6581
+}
+],
+"MegStage": [
+{
+"name": "MegStage",
+"file": "Dynamic",
+"pos": [
+0.02,
+99.974,
+4.425
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+0.024,
+99.974,
+4.42
+],
+"yaw": -3.0583
+}
+],
+"MorphaStage": [
+{
+"name": "MorphaStage",
+"file": "Dynamic",
+"pos": [
+0.166,
+131.36,
+-87.115
+],
+"yaw": -2.3843
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-4.496,
+131.223,
+-73.264
+],
+"yaw": -3.1091
+}
+],
+"NaboruStage": [
+{
+"name": "NaboruStage",
+"file": "Dynamic",
+"pos": [
+0.027,
+135.065,
+-80.343
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+0.027,
+135.065,
+-80.333
+],
+"yaw": -3.1416
+}
+],
+"PhantomGanonStage": [
+{
+"name": "PhantomGanonStage",
+"file": "Dynamic",
+"pos": [
+-5.598,
+74.667,
+-65.826
+],
+"yaw": 1.0472
+},
+{
+"name": "StartPos_SageOfForest",
+"file": "Static",
+"pos": [
+-5.993,
+74.693,
+-66.016
+],
+"yaw": 1.0472
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-5.59,
+74.667,
+-65.829
+],
+"yaw": 1.1058
+}
+],
+"SacredForestMeadow_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-6.943,
+100.0,
+74.721
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-6.977,
+120.4,
+-109.693
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-6.978,
+100.0,
+73.948
+],
+"yaw": -3.1416
+},
+{
+"name": "ForestMinuet",
+"file": "Dynamic",
+"pos": [
+-6.946,
+114.887,
+-95.99
+],
+"yaw": 3.1416
+},
+{
+"name": "OutsideOfForestTemple",
+"file": "Dynamic",
+"pos": [
+-6.977,
+119.187,
+-116.944
+],
+"yaw": 0.0
+},
+{
+"name": "SacredForestMeadow_FrontOfLostWood",
+"file": "Dynamic",
+"pos": [
+-6.978,
+100.0,
+73.967
+],
+"yaw": -3.1416
+}
+],
+"SacredForestMeadow_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-6.943,
+100.0,
+74.721
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-6.977,
+120.4,
+-109.693
+],
+"yaw": 0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-6.978,
+100.0,
+73.948
+],
+"yaw": -3.1416
+},
+{
+"name": "ForestMinuet",
+"file": "Dynamic",
+"pos": [
+-6.946,
+114.887,
+-95.99
+],
+"yaw": 3.1416
+},
+{
+"name": "OutsideOfForestTemple",
+"file": "Dynamic",
+"pos": [
+-6.977,
+119.187,
+-116.944
+],
+"yaw": 0.0
+},
+{
+"name": "SacredForestMeadow_FrontOfLostWood",
+"file": "Dynamic",
+"pos": [
+-6.978,
+100.0,
+73.967
+],
+"yaw": -3.1416
+}
+],
+"SageRoom": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.094,
+100.166,
+-0.001
+],
+"yaw": 0.0
+}
+],
+"ShadowTemple": [
+{
+"name": "Entrance",
+"file": "Dynamic",
+"pos": [
+13.811,
+91.143,
+63.476
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+13.828,
+90.312,
+27.999
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_SageOfShadow",
+"file": "Static",
+"pos": [
+-138.328,
+-11.461,
+22.015
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SageOfShadow",
+"file": "Dynamic",
+"pos": [
+-138.332,
+-11.453,
+21.999
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SageOfShadow_BattleOnShip",
+"file": "Dynamic",
+"pos": [
+131.191,
+46.017,
+-47.679
+],
+"yaw": 0.0
+},
+{
+"name": "StartPos_SageOfShadow_BeforeBossRoom",
+"file": "Dynamic",
+"pos": [
+-138.507,
+41.989,
+21.247
+],
+"yaw": 0.0
+}
+],
+"SpiritTemple": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+0.0,
+100.25,
+7.654
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-0.0,
+100.25,
+7.661
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-55.75,
+132.122,
+39.254
+],
+"yaw": 3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+55.75,
+132.122,
+39.254
+],
+"yaw": 3.1416
+},
+{
+"name": "SpiritTemple_Entrance",
+"file": "Dynamic",
+"pos": [
+-0.0,
+100.25,
+7.661
+],
+"yaw": 3.1416
+},
+{
+"name": "SpiritTemple_FromLeftHand",
+"file": "Dynamic",
+"pos": [
+55.75,
+132.122,
+39.254
+],
+"yaw": 3.1416
+},
+{
+"name": "SpiritTemple_FromRightHand",
+"file": "Dynamic",
+"pos": [
+-55.75,
+132.122,
+39.254
+],
+"yaw": 3.1416
+},
+{
+"name": "StartPos_SageOfSpirit",
+"file": "Dynamic",
+"pos": [
+0.461,
+136.167,
+-75.916
+],
+"yaw": -3.1416
+}
+],
+"StalfosStage": [
+{
+"name": "StalfosStage",
+"file": "Static",
+"pos": [
+70.534,
+46.26,
+-62.261
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+70.534,
+46.22,
+-62.265
+],
+"yaw": -1.5708
+}
+],
+"StalfosWeakStage": [
+{
+"name": "StalfosWeakStage",
+"file": "Dynamic",
+"pos": [
+-0.006,
+105.5,
+-51.54
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-0.002,
+105.5,
+-51.54
+],
+"yaw": -3.1416
+}
+],
+"TwinrovaStage": [
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-0.007,
+142.161,
+-144.8
+],
+"yaw": 3.0882
+},
+{
+"name": "TwinrovaStage",
+"file": "Dynamic",
+"pos": [
+-0.731,
+142.17,
+-158.594
+],
+"yaw": 0.7854
+}
+],
+"VolvagiaStage": [
+{
+"name": "BossDefeat",
+"file": "Static",
+"pos": [
+-71.25,
+102.502,
+0.0
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_SageOfFire",
+"file": "Static",
+"pos": [
+-64.5,
+102.502,
+0.0
+],
+"yaw": -1.5708
+},
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-64.511,
+102.58,
+-0.001
+],
+"yaw": -1.5788
+},
+{
+"name": "VolvagiaStage",
+"file": "Dynamic",
+"pos": [
+-64.511,
+102.581,
+-0.011
+],
+"yaw": -1.5708
+}
+],
+"WaterTemple": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-4.5,
+124.246,
+31.36
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SageOfWater",
+"file": "Dynamic",
+"pos": [
+-4.5,
+131.36,
+-75.3
+],
+"yaw": -3.1416
+},
+{
+"name": "StartPos_SageOfWater_MiddleBoss",
+"file": "Dynamic",
+"pos": [
+-78.048,
+125.441,
+-42.034
+],
+"yaw": -3.1416
+},
+{
+"name": "WaterTemple_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+-4.5,
+118.6,
+43.61
+],
+"yaw": -3.1416
+},
+{
+"name": "WaterTemple_FromLakeHylia_Air",
+"file": "Dynamic",
+"pos": [
+-4.5,
+120.0,
+43.61
+],
+"yaw": -3.1416
+}
+],
+"WolfosStage": [
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-7.081,
+100.0,
+64.677
+],
+"yaw": 3.0685
+},
+{
+"name": "WolfosStage",
+"file": "Dynamic",
+"pos": [
+-7.075,
+100.0,
+64.693
+],
+"yaw": 3.1416
+}
+],
+"WolfosWhiteStage": [
+{
+"name": "StartPos_SubEvent_AllBossBattle",
+"file": "Dynamic",
+"pos": [
+-46.516,
+109.741,
+29.54
+],
+"yaw": 0.0
+},
+{
+"name": "WolfosWhiteStage",
+"file": "Dynamic",
+"pos": [
+-46.516,
+109.741,
+29.54
+],
+"yaw": 0.0
+}
+],
+"ZoraDomain_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+4.001,
+103.945,
+-42.01
+],
+"yaw": 0.0376
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+4.493,
+103.933,
+-37.097
+],
+"yaw": 0.1324
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+89.0,
+119.436,
+15.574
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+1.808,
+93.56,
+-3.598
+],
+"yaw": 1.2432
+},
+{
+"name": "ZoraDomain_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+3.277,
+93.63,
+-3.717
+],
+"yaw": 1.8979
+},
+{
+"name": "ZoraDomain_FromLakeHylia_Air",
+"file": "Dynamic",
+"pos": [
+3.288,
+93.939,
+-3.719
+],
+"yaw": 1.2432
+},
+{
+"name": "ZoraDomain_FromZoraFountain",
+"file": "Dynamic",
+"pos": [
+89.0,
+119.436,
+15.574
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraDomain_FromZoraRiver",
+"file": "Dynamic",
+"pos": [
+4.503,
+103.933,
+-37.029
+],
+"yaw": 0.1324
+}
+],
+"ZoraDomain_Adult_Alternative": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+4.001,
+103.945,
+-42.01
+],
+"yaw": 0.0376
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+4.493,
+103.933,
+-37.097
+],
+"yaw": 0.1324
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+89.0,
+119.436,
+15.574
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+1.808,
+93.56,
+-3.598
+],
+"yaw": 1.2432
+},
+{
+"name": "ZoraDomain_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+3.277,
+93.63,
+-3.717
+],
+"yaw": 1.8979
+},
+{
+"name": "ZoraDomain_FromLakeHylia_Air",
+"file": "Dynamic",
+"pos": [
+3.288,
+93.939,
+-3.719
+],
+"yaw": 1.2432
+},
+{
+"name": "ZoraDomain_FromZoraFountain",
+"file": "Dynamic",
+"pos": [
+89.0,
+119.436,
+15.574
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraDomain_FromZoraRiver",
+"file": "Dynamic",
+"pos": [
+4.503,
+103.933,
+-37.029
+],
+"yaw": 0.1324
+}
+],
+"ZoraDomain_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+4.001,
+103.945,
+-42.01
+],
+"yaw": 0.0376
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+4.493,
+103.933,
+-37.097
+],
+"yaw": 0.1324
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+89.0,
+119.436,
+15.574
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+1.808,
+93.56,
+-3.598
+],
+"yaw": 1.2432
+},
+{
+"name": "MiniGame_Diving_PlayerStart",
+"file": "Static",
+"pos": [
+25.442,
+113.232,
+-5.304
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraDomain_FromLakeHylia",
+"file": "Dynamic",
+"pos": [
+3.277,
+93.63,
+-3.717
+],
+"yaw": 1.8979
+},
+{
+"name": "ZoraDomain_FromLakeHylia_Air",
+"file": "Dynamic",
+"pos": [
+3.288,
+93.939,
+-3.719
+],
+"yaw": 1.2432
+},
+{
+"name": "ZoraDomain_FromZoraFountain",
+"file": "Dynamic",
+"pos": [
+89.0,
+119.436,
+15.574
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraDomain_FromZoraRiver",
+"file": "Dynamic",
+"pos": [
+4.503,
+103.933,
+-37.029
+],
+"yaw": 0.1324
+}
+],
+"ZoraFountain_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-11.0,
+101.634,
+-24.532
+],
+"yaw": 1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+47.22,
+107.611,
+-62.695
+],
+"yaw": -0.0
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-11.0,
+101.631,
+-24.531
+],
+"yaw": 1.5708
+},
+{
+"name": "ZoraFountain_FromIceCavern",
+"file": "Dynamic",
+"pos": [
+47.22,
+107.611,
+-62.712
+],
+"yaw": -0.0
+},
+{
+"name": "ZoraFountain_FromIceCavern_Backdoor",
+"file": "Dynamic",
+"pos": [
+42.085,
+88.003,
+-53.663
+],
+"yaw": -1.0308
+},
+{
+"name": "ZoraFountain_FromIceCavern_Backdoor_Air",
+"file": "Dynamic",
+"pos": [
+41.336,
+89.525,
+-53.861
+],
+"yaw": -1.1457
+},
+{
+"name": "ZoraFountain_FromZoraDomain",
+"file": "Dynamic",
+"pos": [
+-11.0,
+101.631,
+-24.531
+],
+"yaw": 1.5708
+}
+],
+"ZoraFountain_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-11.0,
+101.631,
+-24.53
+],
+"yaw": 1.5708
+},
+{
+"name": "ClearJabuJabu",
+"file": "Dynamic",
+"pos": [
+53.5,
+104.533,
+-6.266
+],
+"yaw": -1.7011
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+11.012,
+102.985,
+-24.478
+],
+"yaw": -1.5708
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+-11.0,
+101.631,
+-24.531
+],
+"yaw": 1.5708
+},
+{
+"name": "ZoraFountain_FromInsideJabuJabuBelly",
+"file": "Static",
+"pos": [
+11.036,
+102.985,
+-24.478
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraFountain_FromZoraDomain",
+"file": "Dynamic",
+"pos": [
+-11.0,
+101.631,
+-24.531
+],
+"yaw": 1.5708
+}
+],
+"ZoraRiver_Adult": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-77.014,
+97.469,
+14.005
+],
+"yaw": 2.3779
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+-85.129,
+96.973,
+20.807
+],
+"yaw": 0.9756
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+-90.389,
+96.095,
+25.166
+],
+"yaw": 2.1743
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+122.551,
+117.981,
+-14.087
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+141.5,
+130.468,
+-40.737
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraRiver_Entrance",
+"file": "Static",
+"pos": [
+-90.389,
+96.095,
+25.166
+],
+"yaw": 2.1743
+},
+{
+"name": "ZoraRiver_Entrance_UnderWater",
+"file": "Static",
+"pos": [
+-81.359,
+94.008,
+29.571
+],
+"yaw": 2.2101
+},
+{
+"name": "ZoraRiver_FromZoraDomain",
+"file": "Dynamic",
+"pos": [
+142.04,
+130.535,
+-40.737
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraRiver_LostWoodSide",
+"file": "Dynamic",
+"pos": [
+122.567,
+117.981,
+-14.087
+],
+"yaw": -3.1416
+},
+{
+"name": "ZoraRiver_LostWoodSide_Air",
+"file": "Dynamic",
+"pos": [
+122.567,
+119.0,
+-14.087
+],
+"yaw": -3.1416
+}
+],
+"ZoraRiver_Child": [
+{
+"name": "(unnamed)",
+"file": "Dynamic",
+"pos": [
+-77.014,
+97.469,
+14.005
+],
+"yaw": 2.3779
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+-85.129,
+96.973,
+20.807
+],
+"yaw": 0.9756
+},
+{
+"name": "EntrancePos",
+"file": "Static",
+"pos": [
+-90.389,
+96.095,
+25.166
+],
+"yaw": 2.1743
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+122.551,
+117.981,
+-14.087
+],
+"yaw": -3.1416
+},
+{
+"name": "EntrancePos",
+"file": "Dynamic",
+"pos": [
+141.5,
+130.468,
+-40.737
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraRiver_Entrance",
+"file": "Static",
+"pos": [
+-90.389,
+96.095,
+25.166
+],
+"yaw": 2.1743
+},
+{
+"name": "ZoraRiver_Entrance_UnderWater",
+"file": "Static",
+"pos": [
+-88.163,
+94.648,
+29.368
+],
+"yaw": 2.6488
+},
+{
+"name": "ZoraRiver_FromZoraDomain",
+"file": "Dynamic",
+"pos": [
+142.04,
+130.535,
+-40.737
+],
+"yaw": -1.5708
+},
+{
+"name": "ZoraRiver_LostWoodSide",
+"file": "Dynamic",
+"pos": [
+122.567,
+117.981,
+-14.087
+],
+"yaw": -3.1416
+},
+{
+"name": "ZoraRiver_LostWoodSide_Air",
+"file": "Dynamic",
+"pos": [
+122.567,
+119.0,
+-14.087
+],
+"yaw": -3.1416
+}
+]
+}
